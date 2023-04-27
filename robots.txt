@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aibd.psc.edu/sitemap.xml

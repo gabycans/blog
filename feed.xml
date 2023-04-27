@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Info &amp; Review</title>
+    <link href="https://aibd.psc.edu/feed.xml" rel="self" />
+    <link href="https://aibd.psc.edu" />
+    <updated>2023-04-27T13:53:01+07:00</updated>
+    <author>
+        <name>stanford</name>
+    </author>
+    <id>https://aibd.psc.edu</id>
+
+    <entry>
+        <title>tes post</title>
+        <author>
+            <name>stanford</name>
+        </author>
+        <link href="https://aibd.psc.edu/tes-post.html"/>
+        <id>https://aibd.psc.edu/tes-post.html</id>
+
+        <updated>2023-04-27T13:53:01+07:00</updated>
+            <summary>
+                <![CDATA[
+                    testt
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>testt</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Info &amp; Review",
+    "description": "",
+    "home_page_url": "https://aibd.psc.edu",
+    "feed_url": "https://aibd.psc.edu/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "stanford"
+    },
+    "items": [
+        {
+            "id": "https://aibd.psc.edu/tes-post.html",
+            "url": "https://aibd.psc.edu/tes-post.html",
+            "title": "tes post",
+            "summary": "testt",
+            "content_html": "<p>testt</p>",
+            "author": {
+                "name": "stanford"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-27T13:53:01+07:00",
+            "date_modified": "2023-04-27T13:53:01+07:00"
+        }
+    ]
+}
